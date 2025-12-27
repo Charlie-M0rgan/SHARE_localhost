@@ -5,3 +5,4 @@ TODO:
 <br>1. add more technologies
 <br>2. add more protocols
 <br>3. add UI (show the QR code inside)
+<br>4. add public network connection
